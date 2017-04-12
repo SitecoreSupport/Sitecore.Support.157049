@@ -1,5 +1,6 @@
 # Sitecore.Support.157049
-Add a workflow to an item using the Create Item save action in WFFM
+An item is created without workflow when using the `Create Item` save action in `Web Forms for Marketers` module.<br/>
+This patch fixes the described behavior.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.157049/blob/master/LICENSE).  
